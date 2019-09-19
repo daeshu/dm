@@ -2,7 +2,7 @@ title: DAESHU – Vago
 logo:  # you can add own logo.
 description: Imágenes personales, momentos personales...
 baseurl: "/dm" # the subpath of your site, e.g. /blog
-url: "https://daeshu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://daeshu.github.io/dm" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
